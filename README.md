@@ -1,0 +1,1 @@
+![screenshot](SimpleTextEditor.png)
